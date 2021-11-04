@@ -35,5 +35,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'NQSHAMINATOR': {
+        'ingredients': {'mozzarella': 7, 'pepper': 12, 'onion': 6},
+        'price': 40,
     }
 }
